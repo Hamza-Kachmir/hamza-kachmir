@@ -23,7 +23,7 @@ Développeur passionné avec une spécialisation en **Data Engineering** et **D�
 
 Voici un aperçu des langages que j'utilise le plus dans mes projets sur GitHub. Cette carte se met à jour automatiquement !
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-kachmir&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-kachmir&layout=compact&theme=vision-friendly-dark&hide_border=true&exclude_repo=Portfolio-v1,Cinephoria,Easy-Ocre,My-Monki,Work-Skill,Projet-Booki)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
