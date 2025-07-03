@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Hamza Kachmir
 
-Développeur passionné avec une spécialisation en **Data Engineering** et **Développement Web**, je transforme des idées complexes en applications fonctionnelles et performantes. Actuellement, je mets mon expertise au service de projets innovants, en construisant des pipelines de données robustes et des interfaces utilisateur intuitives.
+Passionné par l'univers de la data, je suis actuellement à la recherche d'une **alternance en Data Engineering ou Data Science** pour mettre en pratique mes compétences et contribuer à des projets innovants. Je suis motivé par la résolution de problèmes complexes et la transformation de données brutes en informations stratégiques.
 
 ---
 
@@ -23,7 +23,7 @@ Développeur passionné avec une spécialisation en **Data Engineering** et **D�
 
 Voici un aperçu des langages que j'utilise le plus dans mes projets sur GitHub. Cette carte se met à jour automatiquement !
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-kachmir&layout=compact&theme=vision-friendly-dark&hide_border=true&exclude_repo=Portfolio-v1,Cinephoria,Easy-Ocre,My-Monki,Work-Skill,Projet-Booki)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-kachmir&layout=compact&theme=vision-friendly-dark&hide_border=true&exclude_repo=Portfolio-v1,Cinephoria,Easy-Ocre,My-Monki,Work-Skill,Projet-Booki&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -32,4 +32,4 @@ Voici un aperçu des langages que j'utilise le plus dans mes projets sur GitHub.
 - Portfolio : **[portfolio-hamza-kachmir.vercel.app](https://portfolio-hamza-kachmir.vercel.app/)**
 - LinkedIn : **[/in/hamza-kachmir](https://www.linkedin.com/in/hamza-kachmir/)**
 
-N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration !
+N'hésitez pas à explorer mes projets et à me contacter !
