@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Hamza Kachmir
 
-Passionné par l'univers de la data, je suis actuellement à la recherche d'une **alternance en Data Engineering ou Data Science** pour mettre en pratique mes compétences et contribuer à des projets innovants. Je suis motivé par la résolution de problèmes complexes et la transformation de données brutes en informations stratégiques.
+Passionné par l'univers de la Data, je suis actuellement à la recherche d'une **alternance en Data Engineering ou Data Science** pour mettre en pratique mes compétences et contribuer à des projets innovants. Je suis motivé par la résolution de problèmes complexes et la transformation de données brutes en informations stratégiques.
 
 ---
 
