@@ -1,10 +1,10 @@
-# 👋 Bonjour, je suis Hamza Kachmir
+# Bonjour, je suis Hamza Kachmir
 
 Passionné par l'univers de la Data, je suis actuellement à la recherche d'une **alternance en Data Engineering ou Data Science** pour mettre en pratique mes compétences et contribuer à des projets innovants. Je suis motivé par la résolution de problèmes complexes et la transformation de données brutes en informations stratégiques.
 
 ---
 
-### 🚀 Mes Compétences
+### Mes Compétences
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +19,7 @@ Passionné par l'univers de la Data, je suis actuellement à la recherche d'une 
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### Mes Statistiques GitHub
 
 Voici un aperçu des langages que j'utilise le plus dans mes projets sur GitHub. Cette carte se met à jour automatiquement !
 
@@ -27,7 +27,7 @@ Voici un aperçu des langages que j'utilise le plus dans mes projets sur GitHub.
 
 ---
 
-### 📫 Comment me contacter
+### Comment me contacter
 
 - Portfolio : **[portfolio-hamza-kachmir.vercel.app](https://portfolio-hamza-kachmir.vercel.app/)**
 - LinkedIn : **[/in/hamza-kachmir](https://www.linkedin.com/in/hamza-kachmir/)**
